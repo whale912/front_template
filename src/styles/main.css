@@ -1,0 +1,12 @@
+
+.main-layout{
+    float: left;
+    width: 85%;
+    height: calc(100% - 50px);
+}
+
+.main-wrapper{
+    float: left;
+    width: 100%;
+    height: calc(100% - 40px);
+}
